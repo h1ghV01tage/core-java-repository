@@ -19,8 +19,5 @@ public class RandomNumGenApp {
 		return num;
 		
 	}
-	
-	
-	
-	
+		
 }
